@@ -21,10 +21,23 @@ iOS客户端
 * 无
 
 ###工程路径说明
+* code - 存放源代码
+* doc  - 存放相关文档（例如接口文档）
+* resource - 存放资源文件 (例如效果图)
 
 ###源代码目录说明
+* EoeApp
+	* Classes 代码目录
+		* Config 配置文件目录
+		* Custom 自定义文件目录
+		* Error 错误处理目录
+		* External 第三方源码库
+		* ViewControllers 界面源码库
+	* Document 文档目录
+	* Resources 图片目录
 
 ###编码规范（包含命名规范）
+后面我会弄好，放在doc目录下
 
 
 
