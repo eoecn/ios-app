@@ -37,7 +37,12 @@ iOS客户端
 	* Resources 图片目录
 
 ###编码规范（包含命名规范）
-后面我会弄好，放在doc目录下
+编码规范就使用这份吧，挺不错的，够用了。
+
+[github](https://github.com/NYTimes/objective-c-style-guide)
+
+[中文版](http://www.cocoachina.com/applenews/devnews/2013/0826/6869.html)
+
 
 
 
